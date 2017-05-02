@@ -1,0 +1,65 @@
+#style1 {
+  border-radius: 25px;
+  border-style: dotted;
+  line-hight: 30px;
+  margin: 30px;
+  padding-bottom: 20px;
+  text-align:left;
+  width: 600px;
+  height: 400px;
+  color: green;
+}
+#style2 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    background-position: left top;
+    background-repeat: repeat;
+    border-style: double;
+    border-width: 15px;
+}
+
+#style3 {
+    border-radius: 25px;
+    background-url(images.png)
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+#style4 {
+    border-radius: 25px;
+    background: url(images.jpeg);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+
+}
+#style5 {
+  border-radius: 25px;
+  border-style: dotted;
+  background-position: center;
+  line-hight: 30px;
+  margin: 30px;
+  padding-bottom: 20px;
+  text-align:center;
+  width: 200px;
+  height: 150px;
+  color: gr
+
+  #style6 {
+    border-radius: 25px;
+    border-style: dotted;
+    line-hight: 30px;
+    margin: 30px;
+    padding-bottom: 20px;
+    text-align:left;
+    width: 400px;
+    height: 400px;
+    color: green;
+  }
